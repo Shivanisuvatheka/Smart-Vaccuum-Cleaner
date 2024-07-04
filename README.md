@@ -63,7 +63,7 @@ The Hardware required for working of the code include
 ```
 
 ## Circuit Diagram
-![Circuit Diagram](https://github.com/Shivanisuvatheka/Smart-Vaccuum-Cleaner/blob/main/Circuit%20Diagram.png)
+![Circuit Diagram](https://github.com/Shivanisuvatheka/Smart-Vaccuum-Cleaner/blob/main/Circuit_Diagram.png)
 
 
 ## Usage
